@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.1.161 on 2017-01-31 at 18:25 (GMT+2)-->
-<keyboard group="126" id="-20896" name="Estonian" maxout="1">
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-06-04 at 17:30 (EEST)-->
+<keyboard group="126" id="-21116" name="Estonian - Nordic" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
 	</layouts>
@@ -1202,9 +1202,6 @@
 			<when state="5" output="Ž"/>
 			<when state="6" output="Ź"/>
 		</action>
-		<action id="3">
-			<when state="none" next="4"/>
-		</action>
 		<action id="30">
 			<when state="none" output="ö"/>
 			<when state="4" output="ő"/>
@@ -1251,9 +1248,6 @@
 			<when state="5" output="Š"/>
 			<when state="6" output="Ś"/>
 		</action>
-		<action id="4">
-			<when state="none" next="5"/>
-		</action>
 		<action id="40">
 			<when state="none" output="T"/>
 			<when state="5" output="Ť"/>
@@ -1265,52 +1259,6 @@
 		<action id="42">
 			<when state="none" output="y"/>
 			<when state="6" output="ý"/>
-		</action>
-		<action id="43">
-			<when state="none" output=" "/>
-			<when state="1" output="~"/>
-			<when state="2" output="–"/>
-			<when state="3" output="ę"/>
-			<when state="4" output="¨"/>
-			<when state="5" output="ˇ"/>
-			<when state="6" output="&#x0027;"/>
-		</action>
-		<action id="44">
-			<when state="none" output=" "/>
-			<when state="1" output="~"/>
-			<when state="2" output="–"/>
-			<when state="3" output="ę"/>
-			<when state="4" output="¨"/>
-			<when state="5" output="ˇ"/>
-			<when state="6" output="&#x0027;"/>
-		</action>
-		<action id="45">
-			<when state="none" output=" "/>
-			<when state="1" output="~"/>
-			<when state="3" output="ę"/>
-			<when state="4" output="¨"/>
-			<when state="5" output="ˇ"/>
-		</action>
-		<action id="46">
-			<when state="none" output=" "/>
-			<when state="1" output="~"/>
-			<when state="3" output="ę"/>
-			<when state="4" output="¨"/>
-			<when state="5" output="ˇ"/>
-		</action>
-		<action id="47">
-			<when state="none" output=" "/>
-			<when state="1" output="~"/>
-			<when state="3" output="ę"/>
-			<when state="4" output="¨"/>
-			<when state="5" output="ˇ"/>
-		</action>
-		<action id="48">
-			<when state="none" output=" "/>
-			<when state="1" output="~"/>
-			<when state="3" output="ę"/>
-			<when state="4" output="¨"/>
-			<when state="5" output="ˇ"/>
 		</action>
 		<action id="49">
 			<when state="none" output=" "/>
@@ -1329,21 +1277,6 @@
 		</action>
 		<action id="50">
 			<when state="none" output=""/>
-		</action>
-		<action id="51">
-			<when state="none" next="1"/>
-		</action>
-		<action id="52">
-			<when state="none" next="1"/>
-		</action>
-		<action id="53">
-			<when state="none" next="1"/>
-		</action>
-		<action id="54">
-			<when state="none" next="5"/>
-		</action>
-		<action id="55">
-			<when state="none" next="5"/>
 		</action>
 		<action id="6">
 			<when state="none" output=" "/>
