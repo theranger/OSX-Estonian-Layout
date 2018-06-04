@@ -4,7 +4,7 @@ This repository contains Estonian keyboard layout for OS X operating system. It 
 This layout is intended to be used with a traditional ISO-style keyboards with 101/102 keys.
 
 ## Installation
-1. Keyboard layout files for each user are stored in `Library/Keyboard layouts` under user's home directory. Copy the file [Estonian.keylayout] (https://raw.githubusercontent.com/theranger/osx-estonian-layout/master/Estonian.keylayout) into that directory. You may have to log out and in again so that OS X will find the file.
+1. Download the `Estonian - Nordic.dmg` image file from the [release page](https://github.com/theranger/osx-estonian-layout/releases/latest). Double-click the file and use regular drag-and-drop like with any other macOS application installation. This layout will be installed to all users keyboard layouts directory.
 
 2. Open `System Preferences -> Keyboard -> Input Sources`. Using a `+`-sign, add Estonian keyboard layout from `Others` list. Note that this custom layout does not have a flag associated with it. It is intentional and helps to distinguish this layout from the official one.
 
