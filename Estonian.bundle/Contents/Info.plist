@@ -5,9 +5,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.estonian-nordic</string>
 	<key>CFBundleName</key>
-	<string>Estonian - Nordic</string>
+	<string>Estonian</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.0</string>
+	<string>2.0.0</string>
 	<key>KLInfo_Estonian - Nordic</key>
 	<dict>
 		<key>TISInputSourceID</key>
